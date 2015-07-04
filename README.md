@@ -1,5 +1,5 @@
 # MC-Ultra
-An Open Source and Modified Version of Minecraft
+A Modified Version of Minecraft that adds really cool stuff!
 
 # How to get MC Ultra in Eclipse
 <Working on detailed instructions>
