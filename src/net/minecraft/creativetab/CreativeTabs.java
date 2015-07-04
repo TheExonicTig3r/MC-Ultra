@@ -87,7 +87,7 @@ public abstract class CreativeTabs
         private static final String __OBFID = "CL_00000018";
         public Item getTabIconItem()
         {
-            return Items.golden_sword;
+            return Items.diamond_sword;
         }
     }).setRelevantEnchantmentTypes(new EnumEnchantmentType[] {EnumEnchantmentType.ARMOR, EnumEnchantmentType.ARMOR_FEET, EnumEnchantmentType.ARMOR_HEAD, EnumEnchantmentType.ARMOR_LEGS, EnumEnchantmentType.ARMOR_TORSO, EnumEnchantmentType.BOW, EnumEnchantmentType.WEAPON});
     public static final CreativeTabs tabBrewing = new CreativeTabs(9, "brewing")
