@@ -1,6 +1,8 @@
 package net.minecraft.command;
 
+import java.util.Arrays;
 import java.util.List;
+
 import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.BlockPos;
@@ -10,6 +12,11 @@ import net.minecraft.world.WorldSettings;
 public class CommandGameMode extends CommandBase
 {
     private static final String __OBFID = "CL_00000448";
+    
+    public List getCommandAliases()
+    {
+        return Arrays.asList(new String[] {"gm", "game", "mode"});
+    }
 
     public String getCommandName()
     {
