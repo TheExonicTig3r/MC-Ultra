@@ -24,3 +24,6 @@ A Modified Version of Minecraft that adds really cool stuff!
 
 ``` BETTER INSTRUCTIONS COMING SOON ```
 
+``` I think this is cool ```
+http://gyazo.com/71323c8afd91eda34f95ff7550e609bb
+
