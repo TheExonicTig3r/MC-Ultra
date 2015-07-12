@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 import net.minecraft.client.main.Main;
 
-// Test
-
 public class Start
 {
     public static void main(String[] args)
